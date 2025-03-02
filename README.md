@@ -20,7 +20,8 @@ Before running the project, make sure you have the following dependencies instal
 
 
 ## Usage
-Running the Model To run the model, follow these steps:
+### Running the Model 
+To run the model, follow these steps:
 
 1. Download all files from this repository and ensure they are placed within the same root directory. Specifically, the folder "MeiSteel Longitudinal crack detection" must be located in the same root directory as the other code files.
 2. Open a terminal, navigate to the directory containing the code, and execute the script by running:
