@@ -37,11 +37,17 @@ python MeiSteel_Crack_recognition_by_combined_machine_learning_and_image_process
 
 ## Models
 Model Used
+
 The project utilizes the following machine learning models:
+
 Logistic regression (linear)
+
 SVM (linearn and non-linear)
+
 Random forest (ensemble model)
+
 Adaboost (ensemble model)
+
 These four machine learning models are employed to distinguish between true and false longitudinal cracks, addressing the high number of false positives that persist after applying a pure image detection algorithm to thermographic images of longitudinal cracks.
 
 ## Results
