@@ -16,7 +16,7 @@ This project aims to detect longitudinal cracks during continuous casting by ana
 Before running the project, make sure you have the following dependencies installed:
 
 - Python 3.6
-- Python packages used in the code including numpy, pandas, sklearn, matplotlib etc,.
+- Required Python package including numpy, pandas, sklearn, matplotlib etc,.
 
 
 ## Usage
