@@ -30,6 +30,8 @@ python MeiSteel_Crack_recognition_by_combined_machine_learning_and_image_process
 4. After execution, a folder named Meisteel_image_detection_result will be generated, containing the longitudinal crack detection results.
 
 ## Project Structure
+The project is organized as follows:
+
 │  main.py
 │  MeiSteel_Crack_recognition_by_combined_machine_learning_and_image_processing_method.py
 │  Visualization_of_detection_result.py
