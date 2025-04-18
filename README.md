@@ -3,6 +3,8 @@
 ## Overview
 This project aims to detect longitudinal cracks during continuous casting by analyzing abnormal heat transfer between molten steel and the mold copper plate, caused by air gaps formed by these cracks. By integrating temporal and spatial crack data, we map this abnormal heat transfer onto a 2D plane. The approach employs image detection algorithms powered by the OpenCV library, complemented by machine learning models to minimize the false positive rate of the hybrid model. The primary goal is to reduce false positives while ensuring all crack instances are identified, offering a novel data-driven perspective for anomaly detection in the continuous casting process.
 
+Link to this paper:https://link.springer.com/article/10.1007/s11663-025-03513-y
+
 ## Table of Contents
 - [Overview](#overview)
 - [Installation](#installation)
